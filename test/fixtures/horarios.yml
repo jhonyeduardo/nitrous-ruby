@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id_aluno: 1
+  id_professor: 1
+  id_materia: 1
+  horario: 2016-09-22
+
+two:
+  id_aluno: 1
+  id_professor: 1
+  id_materia: 1
+  horario: 2016-09-22
